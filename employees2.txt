@@ -1,0 +1,20 @@
+11,Joe,Programmer,60000,90,12
+13,Kevin,Programmer,40000,80,12
+7,Gina,HR Employee,40000,70,5
+12,Ivan,Project Manager,50000,60,10
+10,Holly,Head of Technology,46000,50,1,Technology
+8,Carol,Secretary,60000,40,1
+2,Dave,CFO,150000,30,1,Finance
+5,Ellen,Head of HR,70000,20,1,Human Resources
+1,Alice,CEO,250000,20,,Some Corp.
+3,Bob,Assistant,80000,20,1
+9,Fred,Hiring Manager,60000,10,5
+15,Linda,Assistant,30000,30,11
+21,Matt,HR Representative,50000,100,5
+22,Jim,Customer Service,344323,50,1,Customer Service
+50,Henry,HR Representative,432432,40,8
+70,Yung Wan,IT Help,543342,100,11,IT Infra
+89,Jung Min,IT Help,354454,88,70
+33,Meher,HR Service Trainee,435435,99,21
+55,Kumara,Field Representative,532352,77,12
+88,Jill,Assistant,43333,100,2
